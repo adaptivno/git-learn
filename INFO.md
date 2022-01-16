@@ -1,4 +1,4 @@
 git is awesome!
 experiment with amend
-new data
+edit sublime INFO.md
 text for INFO.md

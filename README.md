@@ -1,3 +1,3 @@
 Hello, World!
-experiment with amend
+edit sublime README
 text for README
